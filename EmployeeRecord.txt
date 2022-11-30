@@ -1,0 +1,6 @@
+
+****** EMPLOYEE DETAILS ******
+Name = Prince Bohara
+Address = Dhumbarahi
+Age = 29
+Salary = 100000.00

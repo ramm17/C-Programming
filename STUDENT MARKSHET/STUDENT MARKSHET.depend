@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1559626699 source:c:\users\ultrabook\desktop\new folder (2)\student markshet\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1559626828 source:c:\users\ultrabook\desktop\arrays\student markshet\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
